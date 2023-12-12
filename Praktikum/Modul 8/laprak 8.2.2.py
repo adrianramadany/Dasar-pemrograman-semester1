@@ -1,4 +1,3 @@
-
 # Set data
 mahasiswa_set = {"Adrian", "Ramadany", "2311102441108"}
 

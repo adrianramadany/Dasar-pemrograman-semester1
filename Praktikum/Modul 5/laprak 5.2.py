@@ -1,19 +1,13 @@
 for nama in "Adrian Ramadany":
-    print("\n nama",nama)
+    print(" nama",nama)
 for angka in range(10, 0, -1):
     print(angka)
-
 
 bilangan = 1  
 
 while bilangan <= 19:  # Selama bilangan kurang dari atau sama dengan 19
     print(bilangan)  # Cetak bilangan
     bilangan += 2  # Tambahkan 2 untuk mendapatkan bilangan ganjil berikutnya
-
-
-
-
-
 
 i = 1  # Inisialisasi variabel i dengan nilai 1
 

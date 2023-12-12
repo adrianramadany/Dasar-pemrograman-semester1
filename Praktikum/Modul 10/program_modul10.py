@@ -1,4 +1,4 @@
-# main_program.py
+# program_module10.py
 import tabung_module
 
 def main():

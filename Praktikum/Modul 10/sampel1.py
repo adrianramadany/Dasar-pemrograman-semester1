@@ -5,7 +5,7 @@
 #result = modul1.hitung(5,2)
 #print(result)
 
-# main_program.py
+# sampel1.py
 import modul1
 
 def main():

@@ -1,6 +1,6 @@
 class pekerja: #kelas
     pkTotal = 0
-
+    
     def __init__(self, nama, gaji): #constructor
         self.nama = nama 
         self.gaji = gaji

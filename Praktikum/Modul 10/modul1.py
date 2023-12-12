@@ -1,4 +1,4 @@
-
+# modul1.py
 def tambah(r, s):
     return r + s
 

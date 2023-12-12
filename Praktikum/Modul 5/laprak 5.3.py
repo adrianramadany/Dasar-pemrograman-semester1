@@ -9,8 +9,6 @@ while i < 100:  # Selama i kurang dari 100
 
 print("Output terakhir adalah", i)  # Cetak output terakhir
 
-
-
 for angka in range(1, 100):
     if angka % 3 == 1:
         continue
